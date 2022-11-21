@@ -57,7 +57,7 @@ def refactor(path):
     return results
 
 
-  #adding datasets
+#adding datasets
 path_manu= dosya_konumu+"\\Dataset\\manuscripts\\"+"0902.1601.txt"
 path_revi= dosya_konumu+"\\Dataset\\reviewers\\"+"aalto, s..txt"
 path_ground = dosya_konumu+"\\Dataset\\groundturth.txt"
